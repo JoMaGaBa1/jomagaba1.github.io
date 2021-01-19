@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Soy un chico de 19 años apasionado por la tecnología y el mundo de la TIC. Estudio el Grado Superior de DAM en SAFA - Ntra. Sra. de los Reyes en Sevilla.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+La velocidad es otra de mis grandes aficiones (aunque no puedo disfrutar de ella en persona), por lo que la Fórmula 1 es otro de mis intereses desde pequeño.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jose.manuel.garcia.barrionuevo@gmail.com](mailto:jose.manuel.garcia.barrionuevo@gmail.com)
