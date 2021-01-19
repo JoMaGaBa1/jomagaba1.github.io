@@ -1,20 +1,18 @@
-<head>
-    <meta charset="utf-8">
-    <title>Jose Manuel García</title>
-</head>
-<body>
-  <div class="posts">
-    {% for post in site.posts %}
-      <article class="post">
+---
+layout: default
+---
 
-        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-        <div class="entry">
-          {{ post.excerpt }}
-        </div>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-      </article>
-    {% endfor %}
-  </div>
-</body>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
