@@ -11,4 +11,4 @@ La ventana inicial nos muestra la información de la primera cuenta almacenada s
 
 A la hora de introducir los datos de la nueva cuenta, los campos nos indicarán si los datos que introducimos son válidos o no, y una vez sean válidos nos dará la opción de aceptar la inserción. En todo momento podremos cancelar este proceso.
 
-Cuando generemos el reporte, las cuentas nos aparecerán por orden cronológico de apertura.
+Cuando generemos los reportes, las cuentas nos aparecerán por orden cronológico de apertura.
