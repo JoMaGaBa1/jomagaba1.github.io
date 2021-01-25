@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Herramienta para búsqueda de aerovías
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Esta herramienta surge con la idea de facilitar la búsqueda de aerovías a los pilotos de simulación aérea de la red de [IVAO](https://ivao.aero/). Se puede acceder a la herramienta a través de este [enlace](https://files.es.ivao.aero/WebPage/Documentos/FIRs/LECS/Herramientas/source.html).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/aeroviasInicio.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Inicialmente se nos presenta una pantalla dividida en dos partes: la parte izquierda para añadir nuevos tramos de las aerovías que nos interesen, y la parte derecha para visualizar esos tramos tras añadirlos y eliminarlos cuando ya no los necesitemos.
