@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Neuropa
+title: Capitales de Europa
 ---
 
 Se trata de una aplicación móvil para adivinar las capitales de los países europeos a modo de juego. Está desarrollada con Android Studio y el código puede ser descargado [aquí](https://github.com/JoMaGaBa1/Portfolio/tree/main/Neuropa). Está escrita completamente en el lenguaje Kotlin.
