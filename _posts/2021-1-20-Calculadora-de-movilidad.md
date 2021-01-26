@@ -7,4 +7,4 @@ Esta aplicación nos permite calcular el precio y el tipo de billete que tendrem
 
 ![_config.yml]({{ site.baseurl }}/images/appMovilidad.png)
 
-Vemos una interfaz dividad en cuatro partes: las dos superiores para elegir las condiciones que definirán el tipo de billete que necesitamos, y las dos inferiores para confirmar o eliminar nuestra elección y para mostrarnos el resultado correspondiente.
+Vemos una interfaz dividida en cuatro partes: las dos superiores para elegir las condiciones que definirán el tipo de billete que necesitamos, y las dos inferiores para confirmar o eliminar nuestra elección y para mostrarnos el resultado correspondiente.
