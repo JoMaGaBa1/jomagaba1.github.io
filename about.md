@@ -4,7 +4,7 @@ title: Sobre mí
 permalink: /about/
 ---
 
-Soy un chico de 19 años apasionado por la tecnología y el mundo de las TIC. Actualmente, estoy estudiando el Grado Superior de DAM en SAFA - Ntra. Sra. de los Reyes en Sevilla.
+Soy un chico de 20 años apasionado por la tecnología y el mundo de las TIC. Actualmente, estoy estudiando el Grado Superior de DAM en SAFA - Ntra. Sra. de los Reyes en Sevilla.
 
 ### Más información
 
